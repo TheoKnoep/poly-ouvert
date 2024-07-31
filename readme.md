@@ -1,1 +1,1 @@
-Web apppour savoir si le Poly est ouvert ou fermé
+Web app pour savoir si le Poly est ouvert ou fermé
